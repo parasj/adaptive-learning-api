@@ -12,8 +12,9 @@ Installation/Setup
 ==================
 1. Create a database `radioactive`
 2. Import the SQL contained in the folder `sql`
-3. Create a file above the root folder called `dbinfo.dat` with contents if you have a different database configuration than localhost/root/no password
+3. Create a file above the root folder called `dbinfo.dat`. if you have a different database configuration than localhost/root/no password, make a file `dbinfo.dat` above the root directory for this code with the contents: 
 `{"server":"mysql_server","database":"radioactive","username":"mysql_username","password":"mysql_password"}`
+4. Test it by going to `iostestframe.html`. This will also give you a feel for what the application feels like on a mobile browser.
 
 License
 ========
