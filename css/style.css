@@ -1,0 +1,22 @@
+body .ui-footer .ui-title .ui-btn .ui-btn-corner-all .ui-btn-up-a a {
+ white-space: normal;
+ }
+body .ui-li .ui-li-desc .ui-btn {
+ white-space: normal;
+ }
+.min-width-480px input.ui-input-text, 
+.min-width-480px textarea.ui-input-text, 
+.min-width-480px 
+.ui-input-search
+{
+    width: 100% !important;
+    padding: 0.4em 0!important; 
+}
+
+a {
+	white-space:normal
+}
+
+.ui-btn-text {
+white-space: normal;
+}
